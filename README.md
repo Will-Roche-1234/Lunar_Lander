@@ -1,1 +1,1 @@
-Lunar lander game with a shrimp theme. Be careful of sharks and sea urchins, and try to get safely to the salvinia pads using the same mechanics as the original lunar lander. Don't drift off the screen (or you'll lose)!
+Lunar Lander game with a shrimp theme. Be careful of sharks and sea urchins, and try to get safely to the salvinia pads using the same mechanics as the original lunar lander. Don't drift off the screen (or you'll lose)!
